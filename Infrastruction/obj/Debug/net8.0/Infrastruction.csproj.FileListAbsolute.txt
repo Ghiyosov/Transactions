@@ -1,0 +1,15 @@
+C:\Users\ISMOIL\Desktop\dotNET\CRUD — копия\Infrastruction\bin\Debug\net8.0\Infrastruction.deps.json
+C:\Users\ISMOIL\Desktop\dotNET\CRUD — копия\Infrastruction\bin\Debug\net8.0\Infrastruction.dll
+C:\Users\ISMOIL\Desktop\dotNET\CRUD — копия\Infrastruction\bin\Debug\net8.0\Infrastruction.pdb
+C:\Users\ISMOIL\Desktop\dotNET\CRUD — копия\Infrastruction\bin\Debug\net8.0\Domein.dll
+C:\Users\ISMOIL\Desktop\dotNET\CRUD — копия\Infrastruction\bin\Debug\net8.0\Domein.pdb
+C:\Users\ISMOIL\Desktop\dotNET\CRUD — копия\Infrastruction\obj\Debug\net8.0\Infrastruction.csproj.AssemblyReference.cache
+C:\Users\ISMOIL\Desktop\dotNET\CRUD — копия\Infrastruction\obj\Debug\net8.0\Infrastruction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ISMOIL\Desktop\dotNET\CRUD — копия\Infrastruction\obj\Debug\net8.0\Infrastruction.AssemblyInfoInputs.cache
+C:\Users\ISMOIL\Desktop\dotNET\CRUD — копия\Infrastruction\obj\Debug\net8.0\Infrastruction.AssemblyInfo.cs
+C:\Users\ISMOIL\Desktop\dotNET\CRUD — копия\Infrastruction\obj\Debug\net8.0\Infrastruction.csproj.CoreCompileInputs.cache
+C:\Users\ISMOIL\Desktop\dotNET\CRUD — копия\Infrastruction\obj\Debug\net8.0\Infrastr.967D6A49.Up2Date
+C:\Users\ISMOIL\Desktop\dotNET\CRUD — копия\Infrastruction\obj\Debug\net8.0\Infrastruction.dll
+C:\Users\ISMOIL\Desktop\dotNET\CRUD — копия\Infrastruction\obj\Debug\net8.0\refint\Infrastruction.dll
+C:\Users\ISMOIL\Desktop\dotNET\CRUD — копия\Infrastruction\obj\Debug\net8.0\Infrastruction.pdb
+C:\Users\ISMOIL\Desktop\dotNET\CRUD — копия\Infrastruction\obj\Debug\net8.0\ref\Infrastruction.dll
